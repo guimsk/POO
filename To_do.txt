@@ -1,0 +1,14 @@
+
+===================Resolucao===================
+
+-pedido crashando em caso de pedido ou veiculo inexistente;
+
+
+===================Criacao===================
+
+-Criar condicionais nas funcoes de set;
+-criar mostrar pedido solo;
+-criar indentificador de pedido;
+
+===================Alteracoes===================
+-Melhorar parte grafica;
