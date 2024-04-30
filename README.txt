@@ -22,3 +22,4 @@ Ideia Geral{
 
 g++ Main.cpp Veiculos/Veiculo.cpp Clientes/Cliente.cpp Nodos/Nodo.cpp Pedidos/Pedido.cpp Recursos/Recurso.cpp -o main.exe
 
+This project was left as is and given to colleague to work on
